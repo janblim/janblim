@@ -10,6 +10,17 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cats 🐱
 
-### Technologies
+[My Portfolio](https://janblim.github.io/)
 
-[<img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" />]
+## Technologies
+
+<img align="left" alt="VScode" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"/>
+<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
+<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
+<img align="left" alt="HTML" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/>
+<img align="left" alt="CSS" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/>
+<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
+<img align="left" alt="Vite" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png"/>
+<img align="left" alt="Flask" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"/>
+<img align="left" alt="PostgreSQL" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
+
