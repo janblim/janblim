@@ -23,4 +23,5 @@
 <img align="left" alt="Vite" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png"/>
 <img align="left" alt="Flask" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"/>
 <img align="left" alt="PostgreSQL" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
+<img align="left" alt="Postman" width="25px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"/>
 
