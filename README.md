@@ -2,7 +2,7 @@
 
 <img align="right" alt="deepthink" src="https://github.com/user-attachments/assets/7e75c69d-c968-47ac-863b-c29199f2d838" width="300" height="188"/>
 
-📖 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🧬 I have a MS in Genetics from UC Davis
 - 🌱 I’m currently learning Vue.js
