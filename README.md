@@ -6,7 +6,7 @@
 
 - 🧬 I have a MS in Genetics from UC Davis
 - 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate on projects to build up my portfolio
+- 👯 I’m looking to collaborate on projects to build up my portfolio      
 - 🤔 I’m looking for help with Vue.js
 - 💬 Ask me about ... Anything!
 - 😄 Pronouns: he/him
